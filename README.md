@@ -8,7 +8,7 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> Hi there
 
 - 🌱 I’m currently learning Rust!
-- 📫 How to reach me: [Twitter - @nito_008](https://twitter.com/nito_008)
+- 📫 How to reach me: [contact@nito008.com](<mailto:contact@nito008.com>)
 <br>
 
 
