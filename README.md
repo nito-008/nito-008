@@ -22,8 +22,12 @@
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
-![Metrics](/github-metrics.svg)
-
+## Activities
+<div>
+  <img alt="GitHub Stats" src="https://github-readme-stats-fast.vercel.app/api?username=nito-008&show_icons=true&theme=github_dark" />
+  <img alt="GitHub Streak" src="https://github-readme-stats-fast.vercel.app/api/streak?username=nito-008&theme=github_dark" />
+  <img alt="Top Languages" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=nito-008&layout=compact&theme=github_dark" />
+</div>
 
 <!--
 This repository is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -39,4 +43,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
